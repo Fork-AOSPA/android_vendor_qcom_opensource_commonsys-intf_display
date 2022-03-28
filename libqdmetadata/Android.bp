@@ -1,5 +1,5 @@
 cc_library_shared {
-    name: "libqdMetaData",
+    name: "libqdMetaData_",
     vendor_available: true,
     system_ext_specific: true,
     cflags: [
